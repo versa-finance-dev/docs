@@ -2,9 +2,7 @@
 
 ## Contract source code
 
-{% embed url="https://github.com/versa-finance-dev/versa-contracts" %}
-Contracts
-{% endembed %}
+[https://github.com/versa-finance-dev/versa-contracts](https://github.com/versa-finance-dev/versa-contracts)
 
 ## Contracts list
 
